@@ -1,24 +1,24 @@
-# Привіт, я Сергій! 👋
+# Hi, I'm Serhii! 👋
 
-## 🔧 Про мене
+## 🔧 About Me
 
-💻 **Розробник із пристрастю до ефективного коду**: створюю рішення, які вирішують реальні задачі і спрощують життя.
+💻 **A developer passionate about efficient code**: I create solutions that solve real-world problems and simplify life.
 
-🌍 **Моя мета** — зробити цифровий світ зручнішим та доступнішим для всіх.
+🌍 **My goal** is to make the digital world more convenient and accessible for everyone.
 
-🛠️ Прагну поєднувати творчість і технічну майстерність у своїх проєктах.
-
----
-
-## 📂 Поточні проєкти
-
-- **Cohere's Coral** — Telegram-помічник на базі штучного інтелекту із контекстним збереженням даних у SQLite3.
-- **Machinima Bot** — централізований чат-бот для спільноти машиніматорів України.
-- **Fyennyi Journal** — український портал оглядів Minecraft: Bedrock Edition з фокусом на якісний контент.
+🛠️ I strive to combine creativity and technical expertise in my projects.
 
 ---
 
-## 🛠️ Мої технології та інструменти
+## 📂 Current Projects
+
+- **Cohere's Coral** — a Telegram assistant powered by AI with context-aware data storage using SQLite3.
+- **Machinima Bot** — a centralized chatbot for the Ukrainian machinima community.
+- **Fyennyi Journal** — a Ukrainian portal for Minecraft: Bedrock Edition reviews with a focus on quality content.
+
+---
+
+## 🛠️ My Tools and Technologies
 
 <div align="center">
   <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
@@ -30,19 +30,19 @@
 
 ---
 
-## 🌱 Чим я займаюсь зараз
+## 🌱 What I’m Working on Now
 
-- 💡 **Розробка бібліотеки** для генерації ASCII-таблиць, що легко інтегрується в будь-який проєкт.
-- 📖 **Покращую бота Telegram із багатомовністю** за стандартом IETF BCP 47.
-- 💬 **Ділюся знаннями**: досліджую нові підходи до програмування, дизайну й технічних рішень.
-
----
-
-## 📫 Як зі мною зв’язатись
-
-- Telegram: [@ChernegaSergiy](https://t.me/ChernegaSergiy)
-- Електронна пошта: [serhii.cherneha@cssm.pp.ua](mailto:serhii.cherneha@cssm.pp.ua)
+- 💡 **Developing a library** for generating ASCII tables that can be easily integrated into any project.
+- 📖 **Enhancing a Telegram bot with multilingual support** based on the IETF BCP 47 standard.
+- 💬 **Sharing knowledge**: Exploring new approaches to programming, design, and technical solutions.
 
 ---
 
-_Дякую за ваш інтерес до моїх проєктів!_
+## 📫 How to Reach Me
+
+- Telegram: [@ChernegaSergiy](https://t.me/ChernegaSergiy)  
+- Email: [serhii.cherneha@cssm.pp.ua](mailto:serhii.cherneha@cssm.pp.ua)  
+
+---
+
+_Thank you for your interest in my projects!_
