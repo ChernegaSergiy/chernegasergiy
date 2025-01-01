@@ -12,9 +12,9 @@ I strive to combine creativity and technical expertise in my projects.
 
 ## 📂 Current Projects
 
-- **Cohere's Coral** — a Telegram assistant powered by AI with context-aware data storage using SQLite3.
-- **Machinima Bot** — a centralized chatbot for the Ukrainian machinima community.
-- **Fyennyi Journal** — a Ukrainian portal for Minecraft: Bedrock Edition reviews with a focus on quality content.
+- **Cohere's Coral** is a Telegram assistant powered by AI with context-aware data storage using SQLite3.
+- **Machinima Bot** is a centralized chatbot for the Ukrainian machinima community.
+- **Fyennyi Journal** is a Ukrainian portal for Minecraft: Bedrock Edition reviews with a focus on quality content.
 
 ---
 
