@@ -10,6 +10,12 @@ I strive to combine creativity and technical expertise in my projects.
 
 ---
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChernegaSergiy&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChernegaSergiy)
+
+---
+
 ## 📂 Current Projects
 
 - **Cohere's Coral** is a Telegram assistant powered by AI with context-aware data storage using SQLite3.
@@ -25,6 +31,7 @@ I strive to combine creativity and technical expertise in my projects.
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </div>
 
