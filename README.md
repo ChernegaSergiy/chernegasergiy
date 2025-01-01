@@ -12,7 +12,7 @@ I strive to combine creativity and technical expertise in my projects.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChernegaSergiy&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChernegaSergiy)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChernegaSergiy&layout=compact)
 
 ---
 
