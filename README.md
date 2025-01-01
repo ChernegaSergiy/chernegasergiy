@@ -2,11 +2,11 @@
 
 ## 🔧 About Me
 
-💻 **A developer passionate about efficient code**: I create solutions that solve real-world problems and simplify life.
+**A developer passionate about efficient code**: I create solutions that solve real-world problems and simplify life.
 
-🌍 **My goal** is to make the digital world more convenient and accessible for everyone.
+**My goal** is to make the digital world more convenient and accessible for everyone.
 
-🛠️ I strive to combine creativity and technical expertise in my projects.
+I strive to combine creativity and technical expertise in my projects.
 
 ---
 
@@ -32,9 +32,9 @@
 
 ## 🌱 What I’m Working on Now
 
-- 💡 **Developing a library** for generating ASCII tables that can be easily integrated into any project.
-- 📖 **Enhancing a Telegram bot with multilingual support** based on the IETF BCP 47 standard.
-- 💬 **Sharing knowledge**: Exploring new approaches to programming, design, and technical solutions.
+- **Developing a library** for generating ASCII tables that can be easily integrated into any project.
+- **Enhancing a Telegram bot with multilingual support** based on the IETF BCP 47 standard.
+- **Sharing knowledge**: Exploring new approaches to programming, design, and technical solutions.
 
 ---
 
