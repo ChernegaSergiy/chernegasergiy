@@ -1,6 +1,6 @@
 # Hi, I'm Serhii! 👋
 
-## 🔧 About Me
+## About Me
 
 **A developer passionate about efficient code**: I create solutions that solve real-world problems and simplify life.
 
@@ -10,7 +10,7 @@ I strive to combine creativity and technical expertise in my projects.
 
 ---
 
-## 📂 Current Projects
+## Current Projects
 
 - **Cohere's Coral** is a Telegram assistant powered by AI with context-aware data storage using SQLite3.
 - **Machinima Bot** is a centralized chatbot for the Ukrainian machinima community.
@@ -18,7 +18,7 @@ I strive to combine creativity and technical expertise in my projects.
 
 ---
 
-## 🛠️ My Tools and Technologies
+## My Tools and Technologies
 
 <div align="center">
   <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
