@@ -28,16 +28,14 @@ In my work, **creativity and structure go hand in hand**. Whether it's a single 
 
 ---
 
-## My Tools and Technologies
+## 🛠️ Technologies I Use
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</div>
+- **PHP** — primary language for backend logic, bots, and libraries
+- **SQLite** — lightweight database for storing context and user data
+- **JavaScript** — for client-side enhancements and interaction
+- **HTML & CSS** — semantic markup and minimal, expressive styling
+- **Telegram Bot API** — core platform for communication tools
+- **Linux / Termux** — mobile-first and console-based development
 
 ---
 
