@@ -2,19 +2,29 @@
 
 ## About Me
 
-**A developer passionate about efficient code**: I create solutions that solve real-world problems and simplify life.
+I’m a developer who believes that even the simplest tools — like **CSS** — can change lives.
 
-**My goal** is to make the digital world more convenient and accessible for everyone.
+You don’t have to be an expert to make a difference. I live by this every day, and through small, thoughtful steps, I try to make the digital world a better, more humane place — both for myself and for others.
 
-I strive to combine creativity and technical expertise in my projects.
+I focus on making technology clear, accessible, and genuinely useful. I create solutions that solve real-world problems, simplify workflows, and bring clarity where complexity once stood. For me, code is more than logic — it's a way to help, express, and create meaning.
+
+In my work, **creativity and structure go hand in hand**. Whether it's a single line of CSS or a full system architecture, I care deeply about every detail. And I try to inspire others to believe that they can shape the digital world too — starting with what they already know.
+
+> 💡 **“CSS will change the world.”**  
+> Not just a motto — a belief I live by. It changed my life, and I believe it can change yours too.
 
 ---
 
-## Current Projects
+## 🚧 Current Projects
 
-- **Cohere's Coral** is a Telegram assistant powered by AI with context-aware data storage using SQLite3.
-- **Machinima Bot** is a centralized chatbot for the Ukrainian machinima community.
-- **Fyennyi Journal** is a Ukrainian portal for Minecraft: Bedrock Edition reviews with a focus on quality content.
+- **Fyennyi Journal**  
+  The first Ukrainian portal for Minecraft: Bedrock Edition reviews — focused on quality content, independent creators, and community voice.
+
+- **Cohere's Coral**  
+  A Telegram assistant powered by AI and SQLite3, designed to understand context and assist with meaningful interactions.
+
+- **Machinima Bot**  
+  A centralized chatbot built to support and connect the Ukrainian machinima creator community.
 
 ---
 
@@ -33,9 +43,9 @@ I strive to combine creativity and technical expertise in my projects.
 
 ## 🌱 What I’m Working on Now
 
-- **Developing a library** for generating ASCII tables that can be easily integrated into any project.
-- **Enhancing a Telegram bot with multilingual support** based on the IETF BCP 47 standard.
-- **Sharing knowledge**: Exploring new approaches to programming, design, and technical solutions.
+- ✨ Developing a lightweight library for rendering clean, readable ASCII tables in PHP.
+- 🌍 Adding multilingual support to my Telegram bot (using IETF BCP 47 format).
+- 📚 Sharing ideas and discoveries related to code, design systems, and creative technical solutions.
 
 ---
 
@@ -46,12 +56,14 @@ I strive to combine creativity and technical expertise in my projects.
 
 ---
 
-## 📊 My GitHub Stats
+## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChernegaSergiy&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChernegaSergiy&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChernegaSergiy&show_icons=true&theme=default" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChernegaSergiy&layout=compact" alt="Top Languages" />
+</div>
 
 ---
 
-_Thank you for your interest in my projects!_
+_Thanks for stopping by and exploring my work. Let’s build something meaningful!_
