@@ -26,6 +26,12 @@ In my work, **creativity and structure go hand in hand**. Whether it's a single 
 - **Machinima Bot**  
   A centralized chatbot built to support and connect the Ukrainian machinima creator community.
 
+- **Alerts.in.ua PHP Client**  
+  A PHP library for real-time air raid alerts in Ukraine, supporting asynchronous operations and easy integration for developers.
+
+- **NetBSD Wii Monitor Bot**  
+  A Telegram bot that monitors the status of a website hosted on a Nintendo Wii running NetBSD, sending real-time notifications.
+
 ---
 
 ## 🛠️ Technologies I Use
