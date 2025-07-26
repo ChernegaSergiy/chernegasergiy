@@ -15,7 +15,7 @@ In my work, **creativity and structure go hand in hand**. Whether it's a single 
 
 ---
 
-## 🚧 Current Projects
+## 🏗️ Current Projects
 
 - **Fyennyi Journal**  
   The first Ukrainian portal for Minecraft: Bedrock Edition reviews — focused on quality content, independent creators, and community voice.
