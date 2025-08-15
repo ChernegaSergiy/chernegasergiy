@@ -60,14 +60,4 @@ In my work, **creativity and structure go hand in hand**. Whether it's a single 
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChernegaSergiy&show_icons=true&theme=default" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChernegaSergiy&layout=compact" alt="Top Languages" />
-</div>
-
----
-
 _Thanks for stopping by and exploring my work. Let’s build something meaningful!_
